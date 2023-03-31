@@ -107,3 +107,23 @@ ul {
 .three {
     background-color: #e5e7eb;
 }
+
+.third-container {
+    padding-left: 350px;
+    padding-right: 350px;
+    padding-top: 150px;
+    padding-bottom: 80px;
+}
+
+.epi {
+    font-size: 36px;
+    font-style: italic;
+    color: grey;
+}
+
+.author {
+    padding: 16px;
+    text-align: right;
+    font-size: 24px;
+    font-weight: 600;
+}
