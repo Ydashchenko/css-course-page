@@ -22,7 +22,7 @@ body {
 .description {
     padding: 10px 0px;
     font-size: 18px;
-    color: #e5e7eb;
+    color: lightgray;
 }
 
 .header {
@@ -126,4 +126,30 @@ ul {
     text-align: right;
     font-size: 24px;
     font-weight: 600;
+}
+
+.fourth-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 100px 200px;
+    background-color: #3882f6;
+    padding: 50px 100px;
+    border-radius: 10px;
+}
+
+.spotify {
+    color: white;
+    background-color: #3882f6;
+    border-color: white;
+    border-style: solid;
+    border-radius: 8px;
+    padding: 6px 30px;
+    font-size: 16px;
+    font-weight: 700;
+}
+
+.description-two {
+    font-size: 16px;
+    color: lightgray;
 }
